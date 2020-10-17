@@ -1,6 +1,6 @@
 ## Pull Request Template
 
-### What have you Changed(must)
+### CONTEST NUMBER| PROBLEM CODE | PROBLEM NAME | LANGUAGE
 
 Write here what you have changed in the codebase
 
