@@ -9,16 +9,16 @@
 <img src="https://img.shields.io/badge/language-Java-blue?style=for-the-badge">
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/issues-raw/SSKale1/LeetCode-Solutions?style=for-the-badge" >
-<img src="https://img.shields.io/github/issues-closed-raw/SSKale1/LeetCode-Solutions?style=for-the-badge" >
-<img src="https://img.shields.io/github/issues-pr-raw/SSKale1/LeetCode-Solutions?style=for-the-badge" >
-<img src="https://img.shields.io/github/issues-pr-closed-raw/SSKale1/LeetCode-Solutions?style=for-the-badge" >
+<img src="https://img.shields.io/github/issues-raw/bajajvinamr/CodeForces-Solution?style=for-the-badge" >
+<img src="https://img.shields.io/github/issues-closed-raw/bajajvinamr/CodeForces-Solution?style=for-the-badge" >
+<img src="https://img.shields.io/github/issues-pr-raw/SSKale1/bajajvinamr/CodeForces-Solution?style=for-the-badge" >
+<img src="https://img.shields.io/github/issues-pr-closed-raw/bajajvinamr/CodeForces-Solution?style=for-the-badge" >
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/hacktoberfest/2020/SSKale1/LeetCode-Solutions?style=for-the-badge">
+<img src="https://img.shields.io/github/hacktoberfest/2020/bajajvinamr/CodeForces-Solution?style=for-the-badge">
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/contributors/SSKale1/LeetCode-Solutions?style=for-the-badge">
+<img src="https://img.shields.io/github/contributors/bajajvinamr/CodeForces-Solution?style=for-the-badge">
 </p>
 
 ## Introduction
