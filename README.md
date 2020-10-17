@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/github/issues-pr-closed-raw/bajajvinamr/CodeForces-Solution?style=for-the-badge" >
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/hacktoberfest/2020/bajajvinamr/CodeForces-Solution?style=for-the-badge">
+<img src="https://img.shields.io/github/bajajvinamr/CodeForces-Solution?style=for-the-badge">
 </p>
 <p align="center">
 <img src="https://img.shields.io/github/contributors/bajajvinamr/CodeForces-Solution?style=for-the-badge">
