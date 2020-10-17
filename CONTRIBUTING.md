@@ -23,7 +23,7 @@ We love your input! We want to make contributing to this project as easy and tra
 * Fork the repo and clone it on your machine.
 * Add an upstream link to the main branch in your cloned repo
     ```
-    git remote add upstream https://github.com/SSKale1/LeetCode-Solutions.git
+    git remote add upstream https://github.com/bajajvinamr/CodeForces-Solution.git
     ```
 * Keep your cloned repo up to date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
     ```
