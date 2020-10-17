@@ -1,7 +1,7 @@
 ---
 name: Custom issue template
 about: "'Template following Contribution Guidelines '"
-title: " Contest Number | Problem Code | Problem Name | Language"
+title: " Contest Number | PROBLEMS(I.E. A-G)"
 labels: good first issue, hacktoberfest, hacktoberest-2020
 assignees: ''
 
@@ -15,19 +15,29 @@ assignees: ''
 
 Please add/delete options that are not relevant.
 
-- [x] Adding New Code
-- [x] Improving Code
-- [x] Improving Documentation
-- [x] Bug Fix
+- [ ] Adding New Code
+- [ ] Improving Code
+- [ ] Improving Documentation
+- [ ] Bug Fix
 
 ### Programming Language
 
 Please add/delete options that are not relevant.
 
-- [x] Python
-- [x] C++
-- [x] Java
-- [x] Other Language
+- [ ] Python
+- [ ] C++
+- [ ] Java
+- [ ] Other Language
+
+Problems and Status
+- [ ] A
+- [ ] B
+- [ ] C
+- [ ] D
+- [ ] E
+- [ ] F
+- [ ] G
+
 
 ### Self Check 
 
