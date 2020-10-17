@@ -27,7 +27,7 @@ Please add/delete options that are not relevant.
 - [x] Python
 - [x] C++
 - [x] Java
-- [x] SQL
+- [x] Other Language
 
 ### Self Check 
 
