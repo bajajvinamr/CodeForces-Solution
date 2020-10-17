@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://img.shields.io/github/issues-raw/bajajvinamr/CodeForces-Solution?style=for-the-badge" >
 <img src="https://img.shields.io/github/issues-closed-raw/bajajvinamr/CodeForces-Solution?style=for-the-badge" >
-<img src="https://img.shields.io/github/issues-pr-raw/SSKale1/bajajvinamr/CodeForces-Solution?style=for-the-badge" >
+<img src="https://img.shields.io/github/issues-pr-raw/bajajvinamr/CodeForces-Solution?style=for-the-badge" >
 <img src="https://img.shields.io/github/issues-pr-closed-raw/bajajvinamr/CodeForces-Solution?style=for-the-badge" >
 </p>
 <p align="center">
